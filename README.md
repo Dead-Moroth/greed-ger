@@ -34,7 +34,7 @@ Consider renting a VPS to host the bot on; a cheap one should do, as greed is pr
 
 1. Download the project files by running:
    ```bash
-   git clone https://github.com/Steffo99/greed.git
+   git clone https://github.com/Dead-Moroth/greed.git
    ```
    
 2. Enter the newly created folder:
