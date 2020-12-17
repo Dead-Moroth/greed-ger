@@ -65,7 +65,7 @@ conversation_open_user_menu = "Was möchtest du tun?\n" \
                               "💰 Du hast <b>{credit}</b> auf deinem Guthabenkonto.\n" \
                               "\n" \
                               "<i>Wähle unten eine Aktion um zu beginnen.\n" \
-                              " Solltest du keine Aktionen sehen können, kannst du diese Anzeigen lassen, indem du unten" \ 
+                              " Solltest du keine Aktionen sehen können, kannst du diese Anzeigen lassen, indem du unten \n" \ 
                               " auf die 4 kleine Quadrate drückst.</i>"
 
 # Conversation: like above, but for administrators
