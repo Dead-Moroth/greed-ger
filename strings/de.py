@@ -166,7 +166,7 @@ menu_user_mode = "👤 Zum Kunden-Modus wechseln"
 menu_add_product = "✨ Neuer Artikel"
 
 # Admin menu: delete product
-menu_delete_product = "❌ PArtikel löschen"
+menu_delete_product = "❌ Artikel löschen"
 
 # Menu: cancel
 menu_cancel = "🔙 Abbrechen"
